@@ -2,6 +2,14 @@
     margin: .3rem;
 }
 
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+    text-align: center;
+}
+
 .cute {
     height: 15rem;
 }
@@ -12,4 +20,10 @@ h1 {
 
 h2 {
     color: purple;
+}
+
+button {
+    background-color: #e7e7e7;
+    font-size: 1rem;
+    border-radius: .5rem;
 }
