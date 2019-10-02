@@ -1,7 +1,7 @@
-console.log("Js works")
+console.log("If you made it here...keep being clever and curious!")
 
 document.getElementById('link_button').addEventListener('click', link);
 
 function link(){
-    <a href="https://playoverwatch.com/en-us/"></a>
+   window.location = "https://playoverwatch.com/en-us/"
 }
